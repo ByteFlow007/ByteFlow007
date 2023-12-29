@@ -1,6 +1,6 @@
 # ByteFlow 
 
-![Company Logo](https://ibb.co/f2pTgZb.png)
+![Company Logo](https://i.ibb.co/DtCjJmN/b.png)
 
 ## Overview
 
