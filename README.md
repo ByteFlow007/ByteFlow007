@@ -1,4 +1,4 @@
-# [ByteFlow] - Project Name
+# ByteFlow - Project Name
 
 ![Company Logo](link/to/logo.png)
 
