@@ -1,5 +1,5 @@
 # ByteFlow 
-<img src="[link/to/logo.png](https://i.ibb.co/DtCjJmN/b.png)" alt="Company Logo" width="300" height="100">
+<img src="[link/to/logo.png](https://i.ibb.co/DtCjJmN/b.png)" alt="Company Logo" width="300" height="100" />
 
 
 ## Overview
