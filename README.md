@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the [Company Name] GitHub repository for [Project Name]. This repository contains the source code, documentation, and other resources related to our project.
+Welcome to the ByteFlow GitHub repository. This repository contains the source code, documentation, and other resources related to our projects.
 
 ## Table of Contents
 
